@@ -8,13 +8,13 @@ body {
   margin: 0;
 }
 
-/* :root{
+:root{
   --font-base:"Lexed",sans-serif;;
   --font-second-base:"Inter",sans-serif;
   --bg-color:black;
-  --primary-color:#ffffff;
+  --primary-color:#473a3a;
   --secondary-color:#e50914:
-} */
+}
 
 *{
   margin: 0;
