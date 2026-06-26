@@ -1,1 +1,1 @@
-# Netflix
+full-stack Netflix clone using React,Firebase,TMDB
